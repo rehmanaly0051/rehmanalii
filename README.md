@@ -29,4 +29,5 @@ I am committed to driving innovation and delivering solutions that leave a lasti
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanaly0051&show_icons=true&count_private=true)
 
 ### 💻 Top Languages:  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanaly0051&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanaly0051&layout=compact&hide=html,css,c#)
+
