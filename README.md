@@ -22,3 +22,11 @@ I am committed to driving innovation and delivering solutions that leave a lasti
 
 ### 🛠 Tech Stack:  
 ![C](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🦸 GitHub Stats:  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=rehmanaly0051&show_icons=true&count_private=true)
+
+### 💻 Top Languages:  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanaly0051&layout=compact)
