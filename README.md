@@ -7,10 +7,9 @@ Driven by a passion for innovation, I specialize in crafting user-friendly inter
 - **HTML, CSS, and Media Queries**  
 - **Responsive Design with Bootstrap and Tailwind CSS**  
 - **JavaScript, C, C++, C#, Python, and MySQL**  
-- **Django for creating scalable backend systems**  
-- **Next.js for building high-performance web applications**  
+- **Django for creating scalable backend systems**    
 
-As a proud participant in the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)**, I continuously push boundaries by exploring cutting-edge AI technologies. My work is inspired by the fusion of frontend and backend development with AI to redefine the way we experience digital solutions.
+I continuously push boundaries by exploring cutting-edge AI technologies. My work is inspired by the fusion of frontend and backend development with AI to redefine the way we experience digital solutions.
 
 I am committed to driving innovation and delivering solutions that leave a lasting impact on both businesses and users.
 
