@@ -2,7 +2,7 @@
 **Rehman Ali**  
 **Frontend Developer | Computer Science Student at University of Central Punjab**
 
-I’m a passionate developer focused on crafting dynamic, user-centric interfaces, efficient admin panels, and robust backend solutions. With a strong foundation in modern programming languages and tools, I specialize in:
+Driven by a passion for innovation, I specialize in crafting user-friendly interfaces and building efficient, scalable applications. With a strong foundation in modern development tools and technologies, I seamlessly blend creativity with technical expertise to deliver impactful solutions. My areas of expertise include:
 
 - **HTML, CSS, and Media Queries**  
 - **Responsive Design with Bootstrap and Tailwind CSS**  
@@ -10,9 +10,9 @@ I’m a passionate developer focused on crafting dynamic, user-centric interface
 - **Django for creating scalable backend systems**  
 - **Next.js for building high-performance web applications**  
 
-As part of the prestigious **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)**, I am exploring cloud-based Generative AI technologies. I thrive at the intersection of frontend and backend development, aiming to integrate AI-driven solutions into dynamic web applications.
+As a proud participant in the **Presidential Initiative for Artificial Intelligence and Computing (PIAIC)**, I continuously push boundaries by exploring cutting-edge AI technologies. My work is inspired by the fusion of frontend and backend development with AI to redefine the way we experience digital solutions.
 
-Looking ahead, I’m committed to leveraging my skills in **frontend and backend development** to create cutting-edge, impactful applications that redefine user experiences and drive innovation.
+I am committed to driving innovation and delivering solutions that leave a lasting impact on both businesses and users.
 
 ---
 
@@ -24,13 +24,15 @@ Looking ahead, I’m committed to leveraging my skills in **frontend and backend
 ---
 
 ### 🛠 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
+![C](https://img.shields.io/badge/-C-%23A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/-Django-%23092E20?style=for-the-badge&logo=django&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/-Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)  
