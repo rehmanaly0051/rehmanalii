@@ -33,6 +33,3 @@ I am committed to driving innovation and delivering solutions that leave a lasti
 
 ### 🏆 GitHub Trophies:  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rehmanaly0051)
-
-### 🔝 Top Contributed Repos:  
-[![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=rehmanaly0051)]
