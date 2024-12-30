@@ -31,3 +31,8 @@ I am committed to driving innovation and delivering solutions that leave a lasti
 ### 💻 Top Languages:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanaly0051&layout=compact&hide=html,css,c#)
 
+### 🏆 GitHub Trophies:  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=rehmanaly0051)
+
+### 🔝 Top Contributed Repos:  
+[![Top Repos](https://github-readme-stats.vercel.app/api/top-repos/?username=rehmanaly0051)](https://github.com/rehmanaly0051)
