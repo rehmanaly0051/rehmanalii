@@ -35,6 +35,8 @@ I am committed to driving innovation and delivering solutions that leave a lasti
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="padding: 8px; font-weight: bold;" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="padding: 8px; font-weight: bold;" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="padding: 8px; font-weight: bold;" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" style="padding: 8px; font-weight: bold;" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" style="padding: 8px; font-weight: bold;" />
 </div>
 
 
