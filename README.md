@@ -1,6 +1,6 @@
 ## 💫 About Me:  
 **Rehman Ali**  
-**Frontend Developer | Computer Science Student at University of Central Punjab**  
+**Computer Science Student at University of Central Punjab**  
 
 Driven by a passion for innovation, I specialize in crafting user-friendly interfaces and building efficient, scalable applications. With a strong foundation in modern development tools and technologies, I seamlessly blend creativity with technical expertise to deliver impactful solutions. My areas of expertise include:  
 
