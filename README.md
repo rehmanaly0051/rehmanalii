@@ -1,13 +1,67 @@
-## 💫 About Me:  
-**Rehman Ali**  
-**AI & ML Enthusiast**  
+# 💫 About Me
 
-**My Skills Summary Include**
-- **Machine Learning with PyTorch & Scikit-Learn**  
-- **Backend Systems with Django and Django Rest Framework**  
-- **Frontend Development with React, Next.js, and Tailwind CSS**  
+## 👋 Hi, I'm **Rehman Ali**
 
-I am committed to driving innovation and delivering solutions that leave a lasting impact on both businesses and users.  
+**AI & ML Enthusiast | Deep Learning Developer | Full-Stack Engineer**
+
+---
+
+### 🚀 My Mission
+
+I'm passionate about leveraging AI and modern web technologies to create impactful solutions for businesses and users. I thrive on solving complex problems with a blend of robust engineering and creative innovation.
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+- **Deep Learning & Computer Vision**
+  - PyTorch, TensorFlow, Roboflow, OpenCV
+  - Custom model training, transfer learning, data annotation & augmentation
+
+- **Machine Learning & Data Science**
+  - Python, Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn
+  - Supervised & unsupervised learning, model tuning, evaluation
+
+- **Large Language Models & RAG**
+  - LangChain, LlamaIndex, Vector Databases (Pinecone, Weaviate)
+  - Retrieval-Augmented Generation (RAG) pipelines, prompt engineering
+
+- **Backend Engineering**
+  - Django, Django Rest Framework, FastAPI
+  - REST APIs, authentication, scalable system design
+
+- **Frontend Development**
+  - React.js, Next.js, Tailwind CSS
+  - Modern UI/UX, SSR/SSG apps, dashboard development
+
+- **DevOps, Cloud & Infrastructure**
+  - Docker, GitHub Actions, AWS, Vercel
+  - CI/CD, containerization, cloud deployment
+
+---
+
+## 🔥 Featured Projects
+
+- **Custom Object Detection Platform**
+  - Built with Roboflow, PyTorch, and Streamlit for real-time vision apps
+
+- **RAG-based AI Chatbot**
+  - Uses LangChain, OpenAI, and Pinecone to deliver context-rich answers from private knowledge bases
+
+- **Full-Stack SaaS Dashboard**
+  - Django backend, React/Next.js frontend, deployed on Vercel/AWS
+
+---
+
+## 🌐 Let's Connect!
+
+- **GitHub:** [rehmanaly0051](https://github.com/rehmanaly0051)
+- **LinkedIn:** [linkedin.com/in/rehmanaly0051](https://linkedin.com/in/rehmanaly0051)
+- **Email:** rehmanaly0051@gmail.com
+
+---
+
+> 🚀 *I'm always open to collaborating on innovative projects or discussing AI & ML!*
 
 ---
 
