@@ -46,7 +46,7 @@ PyTorch • Transformers • Scikit-learn • OpenCV
 
 **LLM Engineering**
 
-OpenAI • LangGraph • LangChain • RAG • MCP
+OpenAI • Claude • Gemini • Open source Models training • LangGraph • RAG • MCP
 
 **Backend**
 
@@ -54,7 +54,7 @@ FastAPI • Django • PostgreSQL • Redis • Celery • RabbitMQ
 
 **Infrastructure**
 
-Docker • AWS • RunPod • Supabase • DigitalOcean
+Docker • AWS • RunPod • Supabase • DigitalOcean• Vercel • Render • Railways
 
 **Observability**
 
